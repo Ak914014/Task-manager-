@@ -1,8 +1,8 @@
-#Task Management System API
+# Task Management System API
 
 This RESTful API allows users to manage tasks including creating, retrieving, updating, and deleting tasks. Each task has a title, description, creation date, and status.
 
-Setup
+# Setup
 Follow these steps to set up and run the Task Management System API:
 
 1. Clone the Repository
